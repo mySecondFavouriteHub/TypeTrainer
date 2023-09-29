@@ -1,6 +1,6 @@
 package com.example.typeracer;
 
-/* @autor Mark Rudko (2267490) */
+
 /* Typeracer app */
 
 import javafx.application.Application;
